@@ -48,7 +48,7 @@ npm run preview
 
 1. Fork 本仓库到你的 GitHub 账号
 2. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)
-3. 进入 Workers & Pages > Create application > Continue with GitHub
+3. 进入 Workers & Pages > Create application > Get started
 4. 授权并选择你 Fork 的仓库
 部署完成后会自动分配一个 `*.pages.dev` 域名。
 
@@ -85,3 +85,4 @@ photo-mark/
 ## License
 
 MIT
+
